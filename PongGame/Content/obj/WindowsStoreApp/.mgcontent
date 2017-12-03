@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>WindowsStoreApp</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Błażej/documents/visual studio 2017/Projects/PongGame/PongGame/Content/Images/PongTable.png</File>
+    <File>C:/Users/Błażej/documents/visual studio 2017/Projects/PongGame/PongGame/Content/Images/Board.jpg</File>
+    <File>C:/Users/Błażej/documents/visual studio 2017/Projects/PongGame/PongGame/Content/Images/PingPongBallSmall.png</File>
+    <File>C:/Users/Błażej/documents/visual studio 2017/Projects/PongGame/PongGame/Content/Fonts/FontGame.spritefont</File>
+    <File>C:/Users/Błażej/documents/visual studio 2017/Projects/PongGame/PongGame/Content/Fonts/FontScore.spritefont</File>
+    <File>C:/Users/Błażej/documents/visual studio 2017/Projects/PongGame/PongGame/Content/Sounds/Pong.mp3</File>
+  </SourceFiles>
+</SourceFileCollection>
